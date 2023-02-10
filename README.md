@@ -6,7 +6,7 @@ Please review the [Submission Guidelines](https://github.com/phpledge/badging/bl
 
 ## Current Standard: v2023-01
 
-Our badging standard will change as medical science, epidemiology, and community practices progress. Because the standard will evolve, an event’s badge is associated with a specific version of the standard indicated by the year and month. Please submit feedback to [phpledge@googlegroups.com]() or on GitHub.
+Our badging standard will change as medical science, epidemiology, and community practices progress. Because the standard will evolve, an event’s badge is associated with a specific version of the standard indicated by the year and month. Please submit feedback to [phpledge@googlegroups.com](mailto:phpledge@googlegroups.com) or on GitHub.
 
 We are on the first edition of the standard, [v2023-01](https://github.com/phpledge/badging/blob/main/versions/2023-01.md).
 
