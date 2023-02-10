@@ -12,7 +12,7 @@ We are on the first edition of the standard, [v2023-01](https://github.com/phple
 
 # Apply
 
-While, all assessments are conducted in the open, using the [issue tracker](https://github.com/phpledge/badging/issues) on this repository, we ask that you [start your submission with the the PHPledge Event Badging submission form](https://forms.gle/RxdwwEbzy6DtjY1q7).
+While all assessments are conducted in the open, using the [issue tracker](https://github.com/phpledge/badging/issues) on this repository, we ask that you [start your submission with the the PHPledge Event Badging submission form](https://forms.gle/RxdwwEbzy6DtjY1q7).
 
 # Badges Granted
 
