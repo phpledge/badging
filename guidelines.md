@@ -3,6 +3,7 @@
 ## Guidelines
 - Make sure all the requirements are fulfilled before initiating a PHPledge badging application.
 - Respond to reviewer questions and feedback in a timely manner while the application is being evaluated.
+- We suggest you submit a badging request _at least_ two months before your event so that we can provide a timely and thoughtful review.
 
 ## Requirements
 
