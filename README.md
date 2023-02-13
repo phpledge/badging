@@ -18,14 +18,14 @@ While all assessments are conducted in the open, using the [issue tracker](https
 
 # Badges Granted
 
-## [Example Event](#)
+## [OpenInfra Summit Vancouver 2023](https://openinfra.dev/summit/vancouver-2023/)
 
-Badged on 2023-02-09 by [@joshsimmons](https://github.com/joshsimmons) and [@sarasafavi](https://github.com/sarasafavi) using [v2023-01](https://github.com/phpledge/badging/blob/main/versions/2023-01) ([#X](#))
+Badged on 2023-02-13 by [@joshsimmons](https://github.com/joshsimmons) and [@sarasafavi](https://github.com/sarasafavi) using [v2023-01](https://github.com/phpledge/badging/blob/main/versions/2023-01) ([#1](https://github.com/phpledge/badging/issues/1))
 
 Category       | Grade        |
 ---------------|--------------|
 Masks          | Robust Policy
 Vaccines       | Robust Policy
-Tests          | Efforts Made
-Ventilation    | Efforts Made
+Tests          | No Policy
+Ventilation    | Robust Policy
 Alternatives   | Robust Policy
