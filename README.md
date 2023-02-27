@@ -26,6 +26,6 @@ Category       | Grade        |
 ---------------|--------------|
 Masks          | Robust Policy
 Vaccines       | Robust Policy
-Tests          | No Policy
+Tests          | Robust Policy
 Ventilation    | Robust Policy
 Alternatives   | Robust Policy
