@@ -26,6 +26,6 @@ Measure        | Grade        |
 ---------------|--------------|
 Masks          | Robust Policy
 Vaccines       | Robust Policy
-Tests          | Robust Policy
+Tests          | Efforts Made
 Ventilation    | Robust Policy
 Alternatives   | Robust Policy
