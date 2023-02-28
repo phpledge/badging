@@ -20,7 +20,7 @@ While all assessments are conducted in the open, using the [issue tracker](https
 
 ## [OpenInfra Summit Vancouver 2023](https://openinfra.dev/summit/vancouver-2023/)
 
-Badged on 2023-02-27 by [@joshsimmons](https://github.com/joshsimmons) and [@sarasafavi](https://github.com/sarasafavi) using [v2023-01](https://github.com/phpledge/badging/blob/main/versions/2023-01) ([#1](https://github.com/phpledge/badging/issues/1))
+Badged on 2023-02-27 by [@joshsimmons](https://github.com/joshsimmons) and [@sarasafavi](https://github.com/sarasafavi) using [v2023-01](https://github.com/phpledge/badging/blob/main/versions/2023-01.md) ([#1](https://github.com/phpledge/badging/issues/1))
 
 Measure        | Grade        |
 ---------------|--------------|
