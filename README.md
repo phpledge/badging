@@ -20,7 +20,7 @@ While all assessments are conducted in the open, using the [issue tracker](https
 
 ## [North Bay Python 2023](https://2023.northbaypython.org/)
 
-Badged on 2023-05-17 by [@joshsimmons](https://github.com/joshsimmons) and [@sarasafavi](https://github.com/sarasafavi) using [v2023-01](https://github.com/phpledge/badging/blob/main/versions/2023-01.md) ([#1](https://github.com/phpledge/badging/issues/3))
+Badged on 2023-05-17 by [@joshsimmons](https://github.com/joshsimmons) and [@sarasafavi](https://github.com/sarasafavi) using [v2023-01](https://github.com/phpledge/badging/blob/main/versions/2023-01.md) ([#3](https://github.com/phpledge/badging/issues/3))
 
 Measure        | Grade        |
 ---------------|--------------|
